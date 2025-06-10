@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning data visualization
 - 💞️ I’m looking to collaborate on S-100 family standard
-- 📫 How to reach me gauthier.vigouroux@ecole-navale.fr
+- 📫 How to reach me gauthiervigouroux9@gmail.com
 
 <!---
 GauthierVigouroux/GauthierVigouroux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
